@@ -1,0 +1,79 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="LA 1 HD"
+http://260822wg.xxxzwin.com:8080/live/449386842H817641F/4SrHMjEkKCVF/481.ts
+
+#EXTINF:-1 tvg-id="la1.es" tvg-name="LA 1"
+http://260822wg.xxxzwin.com:8080/live/449386842H817641F/4SrHMjEkKCVF/623.ts
+
+#EXTINF:-1 tvg-id="la2.es" tvg-name="La 2 HD"
+http://260822wg.xxxzwin.com:8080/live/449386842H817641F/4SrHMjEkKCVF/4397.ts
+
+#EXTINF:-1 tvg-id="la2.es" tvg-name="LA 2 SD
+http://260822wg.xxxzwin.com:8080/live/449386842H817641F/4SrHMjEkKCVF/622.ts
+
+#EXTINF:-1 tvg-id="ANTENA 3 HD" tvg-name="Antena 3 HD"
+http://260822wg.xxxzwin.com:8080/live/449386842H817641F/4SrHMjEkKCVF/477.ts
+
+#EXTINF:-1 tvg-id="antena3.es" tvg-name="Antena 3"
+http://260822wg.xxxzwin.com:8080/live/449386842H817641F/4SrHMjEkKCVF/621.ts
+
+#EXTINF:-1 tvg-id="CUATRO HD" tvg-name="Cuatro HD"
+http://260822wg.xxxzwin.com:8080/live/449386842H817641F/4SrHMjEkKCVF/474.ts
+
+#EXTINF:-1 tvg-id="cuatro.es" tvg-name="Cuatro" tvg-logo="https://album.mediaset.es/eimg/2017/10/30/ixbI2ViShbP7QrJPB8OPD2.jpg?w=600" group-title="01 GENERALISTAS",Cuatro
+http://260822wg.xxxzwin.com:8080/live/449386842H817641F/4SrHMjEkKCVF/620.ts
+
+#EXTINF:-1 tvg-id="TELECINCO HD" tvg-name="Telecinco HD" tvg-logo="http://picon.tvparanosotros.ru/picon2019/TELECINCO%20HD.png" group-title="01 GENERALISTAS",Telecinco HD
+http://260822wg.xxxzwin.com:8080/live/449386842H817641F/4SrHMjEkKCVF/471.ts
+
+#EXTINF:-1 tvg-id="telecinco.es" tvg-name="TELECINCO SD" tvg-logo="http://picon.tvparanosotros.ru/picon2019/TELECINCO%20HD.png" group-title="01 GENERALISTAS",TELECINCO SD
+http://260822wg.xxxzwin.com:8080/live/449386842H817641F/4SrHMjEkKCVF/619.ts
+
+#EXTINF:-1 tvg-id="LA SEXTA HD" tvg-name="LA SEXTA HD" tvg-logo="http://picon.tvparanosotros.ru/picon2019/LA SEXTA HD.png" group-title="01 GENERALISTAS",LA SEXTA HD
+http://260822wg.xxxzwin.com:8080/live/449386842H817641F/4SrHMjEkKCVF/468.ts
+
+#EXTINF:-1 tvg-id="lasexta.es" tvg-name="LA SEXTA SD" tvg-logo="http://picon.tvparanosotros.ru/picon2019/LA%20SEXTA%20HD.png" group-title="01 GENERALISTAS",LA SEXTA SD
+http://260822wg.xxxzwin.com:8080/live/449386842H817641F/4SrHMjEkKCVF/618.ts
+
+#EXTINF:-1 tvg-id="24 HORAS" tvg-name="24h  HD"
+http://260822wg.xxxzwin.com:8080/live/449386842H817641F/4SrHMjEkKCVF/53154
+
+#EXTINF:-1 tvg-id="24 HORAS" tvg-name="24 HORAS"
+http://260822wg.xxxzwin.com:8080/live/449386842H817641F/4SrHMjEkKCVF/617.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MULTIDEPORTE SD" tvg-logo="http://picon.tvparanosotros.ru/picon2019/MULTIDEPORTES%20%20SD.png" group-title="02 MOVISTAR",MULTIDEPORTE SD
+http://260822wg.xxxzwin.com:8080/live/449386842H817641F/4SrHMjEkKCVF/600.ts
+
+#EXTINF:-1 tvg-id="#VAMOS HD" tvg-name="#VAMOS HD" tvg-logo="http://picon.tvparanosotros.ru/picon2019/VAMOS%20SD.png" group-title="02 MOVISTAR",#VAMOS HD
+http://260822wg.xxxzwin.com:8080/live/449386842H817641F/4SrHMjEkKCVF/445.ts
+
+#EXTINF:-1 tvg-id="#0 SPAIN SD" tvg-name="#0 SPAIN SD" tvg-logo="http://picon.tvparanosotros.ru/picon2019/%230.png" group-title="02 MOVISTAR",#0 SPAIN SD
+http://260822wg.xxxzwin.com:8080/live/449386842H817641F/4SrHMjEkKCVF/602.ts
+
+#EXTINF:-1 tvg-id="AMC HD" tvg-name="AMC HD" tvg-logo="http://picon.tvparanosotros.ru/picon2019/AMC.png" group-title="03 SERIES Y ENTRETENIMIENTO",AMC HD
+http://260822wg.xxxzwin.com:8080/live/449386842H817641F/4SrHMjEkKCVF/410.ts
+
+#EXTINF:-1 tvg-id="AMC SD" tvg-name="AMC SD" tvg-logo="http://picon.tvparanosotros.ru/picon2019/AMC.png" group-title="03 SERIES Y ENTRETENIMIENTO",AMC SD
+http://260822wg.xxxzwin.com:8080/live/449386842H817641F/4SrHMjEkKCVF/588.ts
+
+#EXTINF:-1 tvg-id="M. SERIES HD" tvg-name="M. SERIES HD" tvg-logo="http://picon.tvparanosotros.ru/picon2019/SERIES%20SD.png" group-title="03 SERIES Y ENTRETENIMIENTO",M. SERIES HD
+http://260822wg.xxxzwin.com:8080/live/449386842H817641F/4SrHMjEkKCVF/440.ts
+
+#EXTINF:-1 tvg-id="M. SERIES SD" tvg-name="M. SERIES SD" tvg-logo="http://picon.tvparanosotros.ru/picon2019/SERIES%20SD.png" group-title="03 SERIES Y ENTRETENIMIENTO",M. SERIES SD
+http://260822wg.xxxzwin.com:8080/live/449386842H817641F/4SrHMjEkKCVF/598.ts
+
+#EXTINF:-1 tvg-id="" tvg-name=" M. SERIES 2 HD " tvg-logo="" group-title="03 SERIES Y ENTRETENIMIENTO", M. SERIES 2 HD 
+http://260822wg.xxxzwin.com:8080/live/449386842H817641F/4SrHMjEkKCVF/57649.ts
+
+#EXTINF:-1 tvg-id="CineDoc&Roll  SD" tvg-name=" M. SERIES 2 SD" tvg-logo="" group-title="03 SERIES Y ENTRETENIMIENTO", M. SERIES 2 SD
+http://260822wg.xxxzwin.com:8080/live/449386842H817641F/4SrHMjEkKCVF/580.ts
+
+#EXTINF:-1 tvg-id="M.LCAMPEONES HD" tvg-name=" M.LCAMPEONES HD codec 265" tvg-logo="http://picon.tvparanosotros.ru/picon2019/LIGA%20DE%20CAMPEONES%20SD.png" group-title="08 M.LIGA CAMPEONES", M.LCAMPEONES HD codec 265
+http://260822wg.xxxzwin.com:8080/live/449386842H817641F/4SrHMjEkKCVF/873.ts
+
+#EXTINF:-1 tvg-id="movistarcampeones.es" tvg-name="M.LCAMPEONES HD" tvg-logo="http://picon.tvparanosotros.ru/picon2019/LIGA%20DE%20CAMPEONES%20SD.png" group-title="08 M.LIGA CAMPEONES",M.LCAMPEONES HD
+http://260822wg.xxxzwin.com:8080/live/449386842H817641F/4SrHMjEkKCVF/327.ts
+
+#EXTINF:-1 tvg-id="M.LCAMPEONES" tvg-name="M.LCAMPEONES SD" tvg-logo="http://picon.tvparanosotros.ru/picon2019/LIGA%20DE%20CAMPEONES%20SD.png" group-title="08 M.LIGA CAMPEONES",M.LCAMPEONES SD
+http://260822wg.xxxzwin.com:8080/live/449386842H817641F/4SrHMjEkKCVF/544.ts
+
